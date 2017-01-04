@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Licenses</string>
+    <string name="internal_label_open_link">Open library website</string>
+    <string name="internal_label_title">Licenses</string>
+</resources>
