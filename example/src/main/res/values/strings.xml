@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Licenses</string>
+    <string name="license_helper_example">License Helper Example, go to overflow to view licenses</string>
+    <string name="label_view_licenses">View licenses</string>
 </resources>

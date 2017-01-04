@@ -1,1 +1,1 @@
-include ':example', ':licensehelperlib'
+include ':example', ':library'
