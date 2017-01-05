@@ -30,7 +30,7 @@ $ ./gradlew build
 
 
 #Usage
-1 - Create a JSON file in the following structure for each license you want to display
+1 - For each license you want to display, create a JSON file in your apps assets directory
 ```json
 {
     "name":"Butter Knife",
