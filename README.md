@@ -4,6 +4,7 @@
 * Display open source licenses 
 * Quick and easy integration
 
+#Setup
 ```java 
 allprojects {
     repositories {
@@ -27,8 +28,8 @@ $ git clone https://github.com/roadhouse-dev/LicenseHelper.git
 $ ./gradlew build
 ```
 
-#Setup
 
+#Usage
 1 - Create a JSON file in the following structure for each license you want to display
 ```json
 {
